@@ -1,4 +1,4 @@
-rmq_irods_demo
+irods_rmq_demo
 ==============
 
 Author: Iain Bancarz <ib5@sanger.ac.uk>
