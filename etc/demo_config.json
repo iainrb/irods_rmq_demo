@@ -1,0 +1,6 @@
+{
+    "password": "banquo",
+    "port": 5672,
+    "user": "demo_user",
+    "vhost": "/demo"
+}
