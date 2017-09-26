@@ -9,8 +9,8 @@ use Log::Log4perl qw(:levels);
 
 use WTSI::DNAP::Utilities::ConfigureLogger qw(log_init);
 
-my $irods_class      = 'WTSI::NPG::TestMQiRODS';
-my $publisher_class  = 'WTSI::NPG::TestMQPublisher';
+my $irods_class      = 'WTSI::NPG::iRODSMQTest';
+my $publisher_class  = 'WTSI::NPG::PublisherMQTest';
 
 eval "require $irods_class";
 eval "require $publisher_class";
